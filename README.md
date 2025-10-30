@@ -10,7 +10,7 @@
 
 - 👯 Estou procurando colaborar em **Javascript**
 
-- 🤝 Estou procurando ajuda com **Golang e Kotlin**
+- 🤝 Estou procurando ajuda com **Golang**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/JavaRodrigues](https://github.com/JavaRodrigues)
 
